@@ -1,12 +1,12 @@
 # 📊 Sales Analysis Dashboard using Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 The Sales Analysis Dashboard is an interactive Business Intelligence solution developed using Microsoft Power BI. It transforms raw sales data into meaningful insights through dynamic visualizations, KPIs, and filters. The dashboard helps analyze sales performance, profitability, customer behavior, and product performance, enabling data-driven business decisions.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze overall sales performance.
 - Monitor revenue and profit trends.
@@ -18,7 +18,7 @@ The Sales Analysis Dashboard is an interactive Business Intelligence solution de
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dashboard is built using a sales dataset containing transactional business records.
 
@@ -37,7 +37,7 @@ The dashboard is built using a sales dataset containing transactional business r
 
 ---
 
-## 🖥️ Dashboard Preview
+## Dashboard Preview
 
 ### Main Dashboard
 
@@ -45,33 +45,33 @@ The dashboard is built using a sales dataset containing transactional business r
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard displays the following KPIs:
 
-- 💰 Total Sales
-- 📦 Total Orders
-- 📈 Total Profit
-- 🛒 Total Quantity Sold
-- 📊 Average Sales
+- Total Sales
+- Total Orders
+- Total Profit
+- Total Quantity Sold
+- Average Sales
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 The dashboard includes interactive visualizations such as:
 
-- 📈 Monthly Sales Trend
-- 🌍 Sales by Region
-- 🛍️ Sales by Product Category
-- 🏆 Top Performing Products
-- 💹 Profit Analysis
-- 👥 Customer Analysis
-- 🎛️ Interactive Filters and Slicers
+- Monthly Sales Trend
+- Sales by Region
+- Sales by Product Category
+- Top Performing Products
+- Profit Analysis
+- Customer Analysis
+- Interactive Filters and Slicers
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 Some key insights obtained from the dashboard include:
 
@@ -84,7 +84,7 @@ Some key insights obtained from the dashboard include:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - Microsoft Power BI
 - Power Query
@@ -93,7 +93,7 @@ Some key insights obtained from the dashboard include:
 
 ---
 
-## 🚀 How to Open the Project
+## How to Open the Project
 
 1. Clone or download this repository.
 2. Install **Microsoft Power BI Desktop**.
@@ -103,7 +103,7 @@ Some key insights obtained from the dashboard include:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -118,7 +118,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Sales-Analysis-Dashboard/
