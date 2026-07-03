@@ -41,7 +41,7 @@ The dashboard is built using a sales dataset containing transactional business r
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![SalesAnalysisReport](screenshots/SalesAnalysisReport.png)
 
 ---
 
